@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array-Reversing-Api", "Array-Reversing-Api\Array-Reversing-Api.csproj", "{9A514BE7-B9FA-4089-9041-42661659C1C8}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C85A36CF-C8CD-4F28-ACBB-0692D55AEF83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A514BE7-B9FA-4089-9041-42661659C1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A514BE7-B9FA-4089-9041-42661659C1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A514BE7-B9FA-4089-9041-42661659C1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A514BE7-B9FA-4089-9041-42661659C1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85A36CF-C8CD-4F28-ACBB-0692D55AEF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85A36CF-C8CD-4F28-ACBB-0692D55AEF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85A36CF-C8CD-4F28-ACBB-0692D55AEF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85A36CF-C8CD-4F28-ACBB-0692D55AEF83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD19234-5370-42E8-AFA0-8FB88F4CC3C0}
+	EndGlobalSection
+EndGlobal

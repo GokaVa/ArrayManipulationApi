@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  array-reversing-api:
+    image: ${DOCKER_REGISTRY}arrayreversingapi
+    build:
+      context: .
+      dockerfile: Array-Reversing-Api\Dockerfile
